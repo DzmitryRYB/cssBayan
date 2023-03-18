@@ -1,1 +1,1 @@
-https://DzmitryRYB.github.io/cssBayan/cssBayan/index.html
+https://DzmitryRYB.github.io/cssBayan/cssBayan/
